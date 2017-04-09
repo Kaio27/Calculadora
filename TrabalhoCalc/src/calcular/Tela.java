@@ -102,6 +102,10 @@ public class Tela extends javax.swing.JFrame {
             }
         });
 
+        campoX.setText("0");
+
+        campoY.setText("0");
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
